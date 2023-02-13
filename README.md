@@ -1,5 +1,4 @@
 # RainingRESTapi
-REST api service (Spring Boot + Spring MVC + JPA + Hibernate + PostgreSQL) 
 
 <h2>REST API сервис, который принимает данные от "сенсора"</h2>
 
